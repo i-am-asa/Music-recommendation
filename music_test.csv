@@ -1,0 +1,302 @@
+index,artist,title,genre,mood,year
+1,Faron Young,It's Four In The Morning,Country,sad,1986
+2,Dixie Chicks,Give It Up Or Let Me Go,Country,happy,1998
+3,Loretta Lynn,I'd Rather Have Jesus,,sad,1965
+4,Fake Problems,Tabernacle Song,Rock,sad,2009
+5,Eurythmics,A Little Of You,Pop,sad,1986
+6,Yellowcard,One Year_ Six Months,Rock,sad,2003
+7,Elvenking,Trows Kind,Rock,sad,2006
+8,Jason Michael Carroll,No Good In Goodbye,Country,sad,2007
+9,Michael Jackson,I Wanna Be Where You Are,R&B,sad,1972
+10,Mariah Carey,Someday,Pop,sad,1990
+11,Helmet,Give It,Hip Hop/Rap,sad,1992
+12,Dax Riggs,Radiation Blues,Blues,sad,2007
+13,Creedence Clearwater Revisited,Proud mary,Rock,happy,1998
+14,Elvenking,A Fiery Stride (Ltd. Edition Bonus),Rock,happy,2004
+15,Fernando Ortega,Don't Let Me Come Home A Stranger (LP Version),Christian,sad,1997
+16,Amorphis,Into Hiding,Rock,sad,1994
+17,Tammy Wynette,I Stayed Long Enough,Country,happy,1968
+18,LL Cool J,Headsprung,Hip Hop/Rap,happy,2004
+19,Kris Kristofferson,Snakebit,Country,sad,1981
+20,The All American Rejects,The Future Has Arrived,Rock,happy,2007
+21,Camp Lo,Sparkle,Hip Hop/Rap,sad,1997
+22,Daniel Johnston,High Horse,Jazz,sad,2009
+23,Marc Broussard,Going Home (Album Version),Pop,sad,2008
+24,Lifer,Breathless,Rock,sad,2001
+25,Future Leaders of the World,Spotlight,Rock,sad,2004
+26,Zeromancer,The Death Of Romance,Rock,sad,2010
+27,Deftones,Lotion (LP Version),Rock,sad,1997
+28,Jesse Malin,Going Out West,Rock,sad,2004
+29,Naughty By Nature,Family Tree,Hip Hop/Rap,sad,2002
+30,Michael Jackson,Girl You're So Together,R&B,happy,1984
+31,Stephen Marley,Mind Control,Ska,sad,2005
+32,Novembre,Reason,Rock,happy,2006
+33,Berlin,Blink Of An Eye (Alternative),Rock,happy,2002
+34,Leon Russell,Out In The Woods,Country,sad,1976
+35,Pearl Jam,You Are,Rock,sad,2002
+36,Shai Hulud,We Who Finish Last,Rock,sad,2008
+37,Y&T,Contagious,Rock,happy,1987
+38,Story Of The Year,Meathead (Album Version) (Non-PA),Rock,happy,2005
+39,Atomship,Whitfield,Rock,sad,2004
+40,Patti Smith Group,Wave,Rock,sad,1979
+41,ATB,Believe In Me (Clubb Mix),Electronic,happy,2005
+42,Shania Twain,Two Hearts One Love,Country,happy,1999
+43,Evanescence,Missing (Live in Europe),Rock,sad,2003
+44,Faith Hill,Unsaveable (Album Version),Country,sad,2002
+45,Suicidal Tendencies,Monopoly On Sorrow,Rock,sad,1992
+46,Dark new Day,Free (Album Version),Rock,sad,2005
+47,Peter Gallagher,Everytime It Rains,Jazz,sad,2005
+48,Rickie Lee Jones,Away From The Sky,Rock,sad,1989
+49,Raze,Celebration (The Plan Album Version),Hip Hop/Rap,happy,2000
+50,Bebo Norman,Sunday,Christian,sad,2006
+51,Van Halen,Runaround (Live Version),Rock,happy,1991
+52,Faith Hill,Red Umbrella (Album Version),Country,happy,2007
+53,Happy Mondays,Grandbag's Funeral,Rock,sad,1990
+54,Letters To Cleo,Co-Pilot (Album Version),Rock,happy,1997
+55,Bad Company,Call On Me,Rock,happy,1975
+56,Marshall Crenshaw,Rave On (Live 1982),Rock,happy,2000
+57,Kiss,Every Time I Look At You,Rock,sad,1992
+58,Guns N' Roses,Catcher In The Rye,Rock,sad,2008
+59,Danielle Bollinger,When the Broken Hearted Love Again,Electronic,happy,2006
+60,Missy Higgins,The Special Two (Australian Version),Pop,sad,2007
+61,Dropkick Murphys,The Only Road (Album Version),Rock,sad,2011
+62,Carpenters,An Old Fashioned Christmas,Rock,sad,1992
+63,Sick Of It All,Consume (LP Version),Rock,sad,1994
+64,3 Doors Down,Be Like That,Rock,sad,1999
+65,DMX,I'ma Bang,Hip Hop/Rap,sad,2001
+66,The White Stripes,A Martyr For My Love For You,Rock,happy,2007
+67,Rick Astley,Never Gonna Give You Up,Pop,happy,1987
+68,The Berzerker,Pure Hatred,Electronic,sad,2002
+69,Mungo Jerry,Pushbike Song,Rock,happy,2001
+70,Bone Thugs-N-Harmony,Servin' Tha Fiends,Hip Hop/Rap,sad,2000
+71,Bad Religion,Infected,Rock,sad,1994
+72,Gwen Stefani,What You Waiting For?,Pop,happy,2004
+73,Juelz Santana,There It Go (The Whistle Song),Hip Hop/Rap,happy,2005
+74,The Game,Da Shit,Hip Hop/Rap,sad,2006
+75,Jesse Malin,Since You're In Love,Rock,sad,2004
+76,Franz Ferdinand,No You Girls,Rock,happy,2009
+77,The Prodigy,What Evil Lurks,Electronic,sad,1991
+78,Kyle Riabko,Doesn't Get Much Better,Rock,,2005
+79,Y&T,Mean Streak,Rock,sad,1983
+80,Scar Symmetry,Abstracted,Rock,sad,2006
+81,Nick Cave & The Bad Seeds,Loverman,Rock,sad,1994
+82,Slick Rick,Kill Niggaz,Hip Hop/Rap,sad,1999
+83,Rihanna,Breakin' Dishes,R&B,sad,2007
+84,The Fray,Absolute,Rock,sad,2009
+85,Santana,Interplanetary Party,Blues,happy,2007
+86,Roger Sanchez,Lost,Electronic,sad,2006
+87,Shawn Colvin,These Four Walls,Rock,sad,2006
+88,Simple Minds,See The Lights (2002 Digital Remaster),Rock,sad,1991
+89,Franz Ferdinand,Do You Want To,Rock,happy,2005
+90,Aswad,Ina Your Rights,Ska,sad,1981
+91,Kanye West,School Spirit Skit 2,Hip Hop/Rap,happy,2003
+92,Guns N' Roses,You're Crazy,Rock,happy,1987
+93,Ned Miller,From a Jack To a King,Country,happy,1963
+94,The Shangri-Las,Out in the Streets,Pop,happy,1965
+95,MxPx,You Found Me,Rock,happy,1995
+96,Tony Joe White,If I Ever Saw A Good Thing (Album Version),Rock,happy,1973
+97,Akon,Lonely,R&B,sad,2004
+98,Gym Class Heroes,To Bob Ross With Love (Album Version),Hip Hop/Rap,happy,2005
+99,Stellar Kart,I Give Up (Album Version),Christian,sad,2008
+100,Bon Jovi,The Distance,Rock,happy,2002
+101,FFH,You And Only You,Christian,happy,2004
+102,Hanoi Rocks,Mental Beat,Rock,happy,1983
+103,Phantom Planet,After Hours,Rock,sad,2004
+104,Vonray,Part Of Me (LP Version),Rock,sad,2003
+105,Dionne Warwick,I've Been Loving You Too Long (LP Version),R&B,happy,1969
+106,Michael Stanley Band,He Can't Love you,Rock,happy,1980
+107,Jesse Malin,Broken Radio,Rock,sad,2007
+108,Twila Paris,Come Emmanuel (House Of Worship Album Version),Christian,happy,2003
+109,Leona Naess,Star Signs,Rock,sad,2003
+110,Set Your Goals,summer jam,Rock,happy,2009
+111,Marty Robbins,A Castle In The Sky,Country,happy,2008
+112,Urge Overkill,Crackbabies,Rock,sad,1993
+113,Mint Condition,Call Me,R&B,sad,1999
+114,Erin O'Donnell,You Were The One (Wide Wide World Album Version),Christian,sad,2003
+115,Annie Lennox,Little Bird,Pop,happy,1992
+116,Mudhoney,New Meaning,Rock,sad,2008
+117,Wyclef Jean,Guantanamera,Hip Hop/Rap,happy,1997
+118,LORE,Release,Hip Hop/Rap,sad,2006
+119,Bukka White,Sleepy Man Blues,Blues,sad,1940
+120,Static-X,Night Terrors (Album Version),Rock,sad,2005
+121,Iggy Pop,Main Street Eyes,Rock,sad,1990
+122,,Misty Blue,Country,sad,1976
+123,Jennifer Lopez,Still,Pop,sad,2002
+124,Sister Hazel,Vacation Rain (Album),Rock,happy,2010
+125,Justin Timberlake,Love Don't Love Me (Justin Timberlake) (Amended Version),Pop,happy,2003
+126,Sade,Morning Bird,R&B,sad,2010
+127,Slipknot,Skin Ticket (Live version) (Album Version),Hip Hop/Rap,sad,2001
+128,Owl City,On The Wing,Electronic,happy,2008
+129,Keb' Mo',The Door,Blues,sad,2000
+130,Brooke White,Hold Up My Heart,Rock,happy,2009
+131,The Ocean,Eoarchaean,Rock,sad,2007
+132,Tones On Tail,Burning Skies,Rock,sad,1987
+133,City High,What Would You Do?,R&B,sad,2001
+134,Martina McBride,Heart Trouble,Country,sad,1993
+135,Reach 454,6 Yrs (Album Version ),Rock,sad,2003
+136,John Mellencamp,Down And Out In Paradise,Rock,happy,1987
+137,Soulwax,Kill Your Darlings,Rock,sad,1996
+138,Every Time I Die,Your Touch Versus Death,Rock,sad,2000
+139,The Killers,A White Demon Love Song (Soundtrack Album Version),Rock,sad,2009
+140,DeGarmo & Key,Jericho  (Straight On Album Version),Christian,sad,1979
+141,Jack Johnson,Adrift,Rock,sad,2008
+142,Blue Rodeo,Fools Like You,Rock,sad,1992
+143,Bob Marley & The Wailers,Three Little Birds,Ska,happy,2007
+144,New York Dolls,Trash (live Paris),Rock,sad,2000
+145,Kool Moe Dee,Death Blow,Hip Hop/Rap,sad,1991
+146,,Tell Your Momma Come,Hip Hop/Rap,happy,2000
+147,Martina McBride,Anything's Better Than Feelin' The Blues,Country,sad,1999
+148,April Wine,Babes In Arms,Rock,sad,1979
+149,Mariah Carey,Honey,Pop,happy,1997
+150,Black Flag,Out Of This World,Rock,sad,1985
+151,Neil Diamond,Song Sung Blue,Rock,happy,1972
+152,Evanescence,Good Enough,Rock,sad,2006
+153,Lighthouse Family,Ocean Drive,Pop,happy,1995
+154,Hatebreed,Mark My Words (Album Version),Rock,sad,1997
+155,Small Faces,Itchycoo Park,Rock,happy,1967
+156,The Rolling Stones,Stop Breaking Down (1994 Digital Remaster),Rock,happy,1972
+157,Taking Back Sunday,I Am Fred Astaire (Album Version),Rock,happy,2004
+158,Cindy Morgan,I Will Be Free (LP Version),Christian,sad,2007
+159,Coldplay,The World Turned Upside Down,Rock,sad,2005
+160,Deftones,Korea (LP Version),Rock,sad,2000
+161,4Him,He Never Changes,Christian,happy,1991
+162,Tammy Wynette,It Is No Secret (What God Can Do),Country,happy,1969
+163,Billie Jo Spears,'57 Chevrolet,Country,happy,1990
+164,White Heart,Speed Of Sound (Emergency Broadcast Album Version),Christian,happy,2005
+165,Thrice,All That's Left,Rock,sad,2003
+166,Eleanor McEvoy,Easy To Lose Hope,Rock,sad,1999
+167,,Drum Machine Joy,Rock,sad,1995
+168,Electric Light Orchestra,Queen Of The Hours (2001 Digital Remaster),Rock,sad,1971
+169,Bone Thugs-N-Harmony,2 Glocks,Hip Hop/Rap,sad,2000
+170,Rihanna,Good Girl Gone Bad,R&B,sad,2007
+171,Nick Cave & The Bad Seeds,Christina The Astonishing (2010 Digital Remaster),Rock,sad,1992
+172,Melissa Auf der Maur,The Key,Rock,sad,2010
+173,System of a Down,Streamline,Rock,sad,2001
+174,Foghat,Zig-Zag Walk,Rock,happy,1983
+175,The Winans,The Question Is (Album Version),Christian,sad,1981
+176,Toni Braxton,Best Friend,R&B,sad,1993
+177,Republica,Pub Pusher,Electronic,sad,1998
+178,Jars Of Clay,Don't Stop,Rock,happy,2009
+179,Maximilian Hecker,Let Me Out,Pop,sad,2001
+180,Dickies,Pretty Please Me,Rock,happy,1983
+181,3 Doors Down,Here Without You,Rock,sad,2002
+182,Barry Manilow,This One's For You,Pop,sad,1976
+183,Busta Rhymes,When Disaster Strikes (Explicit LP Version),,sad,1997
+184,Josh Turner,Softly And Tenderly,Country,sad,2004
+185,Slum Village,CB4,Hip Hop/Rap,sad,2000
+186,Simply Red,So Not Over You (Motivo-Pop Lectro Mix),,sad,2007
+187,Bon Jovi,Only Lonely,Rock,sad,1985
+188,Erick Sermon,I'm Hot,Hip Hop/Rap,happy,2001
+189,Mariah Carey,Touch My Body,Pop,happy,2008
+190,Arc Angels,Sent By Angels,Blues,happy,1992
+191,Randy Travis,Don't Take Your Love Away From Me (Album Version),Country,sad,1996
+192,Bryan White,Love Happens Just Like That (LP Version),Country,happy,1999
+193,The Roches,Losing True (Album Version),Rock,sad,1982
+194,Guns N' Roses,Sweet Child O' Mine,Rock,happy,1987
+195,Devo,Be Stiff (Live),Rock,happy,1993
+196,System of a Down,War?,Rock,sad,1996
+197,Joe Bonamassa,So Many Roads,Rock,sad,2006
+198,Blind Willie Johnson,John the Revelator,Blues,sad,1991
+199,Erick Sermon,Erick Sermon,Hip Hop/Rap,happy,1993
+200,Pepper,Point And Shoot (Demo),Rock,happy,2007
+201,Blackfoot,Heart's Grown Cold (LP Version),Rock,happy,1983
+202,EPMD,Head Banger,Hip Hop/Rap,sad,1992
+203,Donnie McClurkin,Psalm 27,Christian,happy,2000
+204,Bessie Smith,Chicago Bound Blues,Blues,sad,1991
+205,Talking Heads,Papa Legba (2005 Digital Remaster),Rock,sad,1986
+206,,Make It Last,Rock,sad,1997
+207,Winds Of Plague,Origins And Endings,Rock,sad,2008
+208,Brooke Valentine,American Girl,Hip Hop/Rap,happy,2005
+209,Behemoth,Malice,Rock,sad,2000
+210,The Mighty Mighty Bosstones,Pictures To Prove It,Ska,sad,1994
+211,The Cardigans,Marvel Hill,Rock,sad,1998
+212,Kenny Rogers,Love Is What We Make It,Country,happy,1999
+213,Mississippi John Hurt,Coffee Blues,Blues,happy,1966
+214,Robert Palmer,Man Smart Woman Smarter,Soul,happy,1992
+215,Leona Naess,Paper Thin,Rock,sad,2000
+216,Vixen,One Night Alone,Electronic,happy,1988
+217,Gorillaz,All Alone (Live),Hip Hop/Rap,sad,2005
+218,Phil Collins,Please Come Out Tonight,Rock,sad,1993
+219,Warrant,Bed Of Roses,Rock,happy,1990
+220,Lil Wayne,Fly Talkin',Hip Hop/Rap,sad,2002
+221,Seventh Day Slumber,Famous One,Rock,happy,2009
+222,Firehouse,Talk Of The Town,Rock,happy,1992
+223,Casiotone For The Painfully Alone,Attic Room,Jazz,sad,2003
+224,The Prodigy,Firestarter,Electronic,sad,1996
+225,Phil Collins,Testify,Rock,sad,2002
+226,Adam Ant,Mohair Locker Room Pin-Up Boys,Rock,happy,1998
+227,Gary Go,Open Arms,Pop,sad,2009
+228,He Is Legend,Stampede,Rock,sad,2006
+229,Cece Winans,Come On Back Home,Christian,sad,1998
+230,bel canto,Rumour (Abstract Hip Hop Mix),Hip Hop/Rap,happy,1996
+231,Remy Shand,,R&B,happy,2002
+232,The Cardigans,Explode,Rock,sad,1998
+233,Alicia Keys,Karma,R&B,sad,2003
+234,Ned Miller,From A Jack To A King,Country,happy,1963
+235,Grandmaster Flash,Underarms,Hip Hop/Rap,happy,1987
+236,30 Seconds To Mars,End Of The Beginning,Rock,sad,2002
+237,EPMD,For My People,Hip Hop/Rap,sad,1990
+238,Naughty By Nature,Ring The Alarm,Hip Hop/Rap,sad,1999
+239,Janet Jackson,Again (Instrumental),R&B,sad,1993
+240,Ben Jelen,Come On (Sessions@AOL Version),Pop,sad,2004
+241,Suicidal Tendencies,Looking In Your Eyes,Rock,sad,1987
+242,Roger Creager,All For The Sake Of The Song,Country,sad,2003
+243,Phil Collins,Everyday,Rock,sad,1993
+244,Silverstein,Defend You (Album Version),Rock,sad,2005
+245,Life In Your Way,When Rules Change,Rock,happy,2005
+246,22-20s,Hold On,Rock,sad,2004
+247,FFH,Listen,,sad,2005
+248,Patty Griffin,,Rock,happy,2010
+249,Joey Negro,Make A Move On Me,Electronic,happy,2005
+250,Bloc Party,Zephyrus,Rock,sad,2008
+251,Atreyu,Shameful (LP Version),Rock,sad,2006
+252,Hall & Oates,Fall in Philadelphia,Rock,sad,1972
+253,Jimmy Wayne,She Runs,Country,happy,2003
+254,Sister Hazel,Concede,Rock,sad,1997
+255,Basement Jaxx,Feelings Gone (feat. Sam Sparro) (Joachim Garraud Remix),Electronic,sad,2009
+256,Jesus Jones,Yellow Brown,Electronic,sad,1993
+257,Deftones,No Ordinary Love (Remastered LP Version),Rock,sad,2005
+258,,Dead End Street,Blues,happy,1980
+259,UFO,Cherry,Rock,happy,1978
+260,Queens Of The Stone Age,Everybody's Gonna Be Happy,Rock,happy,2002
+261,George Harrison,All Things Must Pass (2009 Digital Remaster),Rock,sad,1970
+262,George Michael,Shoot The Dog,Rock,happy,2004
+263,3 Doors Down,Better Life,Rock,sad,2007
+264,Radiohead,Everything In Its Right Place,Rock,sad,2000
+265,Talib Kweli,Everything Man (Album Version),Hip Hop/Rap,sad,2007
+266,Open Hand,Tough Guy,Rock,sad,2004
+267,EPMD,I'm Mad,Hip Hop/Rap,sad,1990
+268,Eddy Arnold,Molly Darling,Country,happy,1956
+269,The Game,Scream On Em,Hip Hop/Rap,sad,2006
+270,Dinosaur Jr,Green Mind,Rock,sad,1991
+271,Jesse Malin,Harmony,Rock,sad,2008
+272,Wednesday 13,Haunt Me (Album Version),Rock,sad,2005
+273,Darryl Worley,,Country,sad,2002
+274,Sandi Thom,When Horsepower Meant What It Said,Pop,happy,2006
+275,Chimaira,Army Of Me (Album Version),Rock,sad,2003
+276,The Ronettes,(The Best Part Of) Breakin' Up,Pop,happy,1964
+277,Charlotte Gainsbourg,IRM,Pop,sad,2009
+278,DMX,Look Thru My Eyes,Hip Hop/Rap,sad,1998
+279,Public Image Ltd,This Is Not A Love Song,Rock,happy,1983
+280,Joe Bonamassa,I Know A Place,Rock,sad,2010
+281,Asleep At The Wheel,The Letter That Johnny Walker Read,Country,sad,2002
+282,Bad Company,Crazy Circles,Rock,happy,1979
+283,Phantom Planet,The Meantime,Rock,happy,2004
+284,Madonna,Papa Don't Preach,Pop,sad,1986
+285,The Jam,Start!,Rock,sad,1980
+286,Drop Dead_ Gorgeous,Are You Happy (Album Version),Rock,sad,2006
+287,Guns N' Roses,Patience,Rock,sad,1988
+288,Dungeon Family,Follow The Light,Hip Hop/Rap,sad,2001
+289,Strata,Night Falls (The Weight Of It),Rock,sad,2007
+290,Tampa Red,No Matter How She Done It,Blues,happy,1974
+291,Kanye West,Diamonds From Sierra Leone,Hip Hop/Rap,happy,2005
+292,The Killers,A Dustland Fairytale,Rock,sad,2008
+293,Minnie Riperton,Lovin' You,R&B,happy,1974
+294,Mötley Crüe,Merry-Go-Round,Rock,happy,1981
+295,4Him,Strange Way To Save The World,Christian,happy,2000
+296,Alias,Standing In The Darkness,Electronic,happy,1990
+297,Sade,All About Our Love,R&B,sad,2000
+298,New Found Glory,Don't Let Her Pull You Down,Rock,happy,2009
+299,Mindy McCready,Ten Thousand Angels,Country,happy,1996
+300,Joy Division,Leaders Of Men,Rock,sad,1978
+301,Seventh Day Slumber,Shattered Life,Rock,sad,2005
